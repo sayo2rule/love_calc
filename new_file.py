@@ -10,3 +10,5 @@ if random_side == 1:
     print("Heads")
 else:
     print("Tails")
+
+# the test seed should be ignored, it is just to give a contact value for an answer
